@@ -1,0 +1,6 @@
+C:\Users\SergioPérezSere\source\repos\Prueba\Prueba\bin\Release\Prueba.exe.config
+C:\Users\SergioPérezSere\source\repos\Prueba\Prueba\bin\Release\Prueba.exe
+C:\Users\SergioPérezSere\source\repos\Prueba\Prueba\bin\Release\Prueba.pdb
+C:\Users\SergioPérezSere\source\repos\Prueba\Prueba\obj\Release\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\SergioPérezSere\source\repos\Prueba\Prueba\obj\Release\Prueba.exe
+C:\Users\SergioPérezSere\source\repos\Prueba\Prueba\obj\Release\Prueba.pdb
