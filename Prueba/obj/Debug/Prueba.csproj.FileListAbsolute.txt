@@ -12,3 +12,17 @@ C:\Users\SergioPérezSere\source\repos\Prueba\Prueba\bin\Debug\Newtonsoft.Json.x
 C:\Users\SergioPérezSere\source\repos\Prueba\Prueba\bin\Debug\System.Net.Http.Extensions.xml
 C:\Users\SergioPérezSere\source\repos\Prueba\Prueba\bin\Debug\System.Net.Http.Primitives.xml
 C:\Users\SergioPérezSere\source\repos\Prueba\Prueba\obj\Debug\Prueba.csproj.App.config
+D:\Sergio Perez\Documentos\Repositorios\ConsoleCsharp\Prueba\bin\Debug\Prueba.exe.config
+D:\Sergio Perez\Documentos\Repositorios\ConsoleCsharp\Prueba\bin\Debug\Prueba.exe
+D:\Sergio Perez\Documentos\Repositorios\ConsoleCsharp\Prueba\bin\Debug\Prueba.pdb
+D:\Sergio Perez\Documentos\Repositorios\ConsoleCsharp\Prueba\bin\Debug\Newtonsoft.Json.dll
+D:\Sergio Perez\Documentos\Repositorios\ConsoleCsharp\Prueba\bin\Debug\System.Net.Http.Extensions.dll
+D:\Sergio Perez\Documentos\Repositorios\ConsoleCsharp\Prueba\bin\Debug\System.Net.Http.Primitives.dll
+D:\Sergio Perez\Documentos\Repositorios\ConsoleCsharp\Prueba\bin\Debug\Newtonsoft.Json.xml
+D:\Sergio Perez\Documentos\Repositorios\ConsoleCsharp\Prueba\bin\Debug\System.Net.Http.Extensions.xml
+D:\Sergio Perez\Documentos\Repositorios\ConsoleCsharp\Prueba\bin\Debug\System.Net.Http.Primitives.xml
+D:\Sergio Perez\Documentos\Repositorios\ConsoleCsharp\Prueba\obj\Debug\Prueba.csproj.App.config
+D:\Sergio Perez\Documentos\Repositorios\ConsoleCsharp\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+D:\Sergio Perez\Documentos\Repositorios\ConsoleCsharp\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+D:\Sergio Perez\Documentos\Repositorios\ConsoleCsharp\Prueba\obj\Debug\Prueba.exe
+D:\Sergio Perez\Documentos\Repositorios\ConsoleCsharp\Prueba\obj\Debug\Prueba.pdb

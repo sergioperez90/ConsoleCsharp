@@ -47,10 +47,10 @@ namespace Prueba
         public bool premium { get; set; }
 
         [JsonProperty("limit")]
-        public object limit { get; set; }
+        public string limit { get; set; }
 
         [JsonProperty("transform")]
-        public object transform { get; set; }
+        public string transform { get; set; }
 
         [JsonProperty("column_index")]
         public object column_index { get; set; }
@@ -65,10 +65,10 @@ namespace Prueba
         public IList<IList<object>> data { get; set; }
 
         [JsonProperty("collapse")]
-        public object collapse { get; set; }
+        public string collapse { get; set; }
 
         [JsonProperty("order")]
-        public object order { get; set; }
+        public string order { get; set; }
 
         [JsonProperty("database_id")]
         public int database_id { get; set; }

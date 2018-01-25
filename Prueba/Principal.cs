@@ -42,7 +42,30 @@ namespace Prueba
             if(quandl != null)
             {
                 Console.WriteLine("Objeto cargado correctamente");
-                Console.WriteLine("Nombre: " + quandl.dataset.name); //Para mostrar el contenido del objeto pones quandl.dataset. y aqui pues lo que quieras mostrar, descripcion, etc.
+                Console.WriteLine("Tiker: " + quandl.dataset.dataset_code);
+                Console.WriteLine("Company: " + quandl.dataset.name); //Para mostrar el contenido del objeto pones quandl.dataset. y aqui pues lo que quieras mostrar, descripcion, etc.
+
+
+                for (int i = 0; i < quandl.dataset.column_names.Count; i++)
+                {
+                    Console.WriteLine("Columna: " + quandl.dataset.column_names[i]);
+                }
+
+
+
+
+                for (int i = 0; i < quandl.dataset.data.Count; i++)
+                {
+                   for(int j = 0; j < quandl.dataset.data[i].Count; j++)
+                    {
+                        Console.WriteLine("Data: " + quandl.dataset.data[i][j]);
+
+                    }
+
+                    Console.WriteLine("-----");
+
+                }
+
             }
             else
             {
